@@ -22,4 +22,5 @@
     <color name="material_deep_teal_500">#E91E63</color>
     <color name="notification_icon_bg_color">#E91E63</color>
     <color name="system_notification_accent_color">#E91E63</color>
+    <color name="settings_icon_tint_color">#E91E63</color>
 </resources>

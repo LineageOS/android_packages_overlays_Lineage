@@ -22,4 +22,5 @@
     <color name="material_deep_teal_500">#4182EF</color>
     <color name="notification_icon_bg_color">#4182EF</color>
     <color name="system_notification_accent_color">#4182EF</color>
+    <color name="settings_icon_tint_color">#4182EF</color>
 </resources>
