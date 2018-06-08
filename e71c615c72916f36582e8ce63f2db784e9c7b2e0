@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7172db60_39a4a7b5",
+        "filename": "black/res/values/styles.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 18678
+      },
+      "writtenOn": "2018-06-08T14:42:24Z",
+      "side": 1,
+      "message": "duplicate with line 36.",
+      "range": {
+        "startLine": 38,
+        "startChar": 0,
+        "endLine": 38,
+        "endChar": 110
+      },
+      "revId": "e71c615c72916f36582e8ce63f2db784e9c7b2e0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
