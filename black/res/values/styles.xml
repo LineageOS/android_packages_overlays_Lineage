@@ -46,6 +46,8 @@
         <item name="android:textColorPrimaryInverse">@*android:color/black</item>
         <item name="android:dialogTheme">@*android:style/Theme.Material.Settings.BaseDialog</item>
         <item name="android:alertDialogTheme">@*android:style/Theme.Material.Settings.Dialog.BaseAlert</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
     </style>
 
     <style name="Theme.Material.Settings.BaseDialog" parent="@*android:style/Theme.Material.BaseDialog">
