@@ -28,6 +28,6 @@
 
         <meta-data
             android:name="lineage_berry_accent_preview"
-            android:value="#4CAF50" />
+            android:value="#38853B" />
     </application>
 </manifest>
