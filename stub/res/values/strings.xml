@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lineage Themes</string>
+    <string name="theme_name_test">Theme 1</string>
+    <string name="theme_overlay_color_test">com.android.theme.color.space</string>
+    <string name="theme_overlay_font_test">com.android.theme.font.notoserifsource</string>
+    <string name="theme_overlay_icon_android_test">com.android.theme.icon_pack.rounded.android</string>
+    <string name="theme_overlay_icon_launcher_test">com.android.theme.icon_pack.rounded.launcher</string>
+    <string name="theme_overlay_icon_settings_test">com.android.theme.icon_pack.rounded.settings</string>
+    <string name="theme_overlay_icon_sysui_test">com.android.theme.icon_pack.rounded.systemui</string>
+    <string name="theme_overlay_shape_test">com.android.theme.icon.squircle</string>
+    <string name="theme_title_test">@string/theme_name_test</string>
+</resources>
