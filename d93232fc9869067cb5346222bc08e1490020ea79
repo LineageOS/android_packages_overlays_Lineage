@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1c2371cf_45f1f88b",
+        "filename": "customizations/NavigationBarNoHint/res/values/dimens.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 19665
+      },
+      "writtenOn": "2020-05-20T06:06:53Z",
+      "side": 1,
+      "message": "So, it looks like the navigation bar frame is being used as that \"buffer zone\" that I referred to in my previous comment.\n\nRemoving this line does completely resolve the usability issues that I mentioned previously, but it does result in that nav bar hint being drawn on top of the app (since the app is taking up the entire screen now). I will try to figure out how I could hide the \"home_handle\" button (nav bar hint) via overlays...\n\n(I hadn\u0027t checked it myself yet, but I suspect that this line also ends up hiding the \"back\" and \"ime_switcher\" buttons that show up when you have your keyboard open, which is probably not what we want either)",
+      "range": {
+        "startLine": 14,
+        "startChar": 4,
+        "endLine": 14,
+        "endChar": 57
+      },
+      "revId": "d93232fc9869067cb5346222bc08e1490020ea79",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
