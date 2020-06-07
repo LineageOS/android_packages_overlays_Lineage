@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-    Copyright (c) 2019, The LineageOS Project
+    Copyright (c) 2019-2020, The LineageOS Project
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -16,5 +16,5 @@
 -->
 <resources>
     <color name="accent_device_default_light">#212121</color>
-    <color name="accent_device_default_dark">#212121</color>
+    <color name="accent_device_default_dark">#F5F5F5</color>
 </resources>
