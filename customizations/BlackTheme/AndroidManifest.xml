@@ -1,5 +1,5 @@
 <!--
- * Copyright (C) 2020 The LineageOS Project
+ * Copyright (C) 2022 The LineageOS Project
  *
  * SPDX-License-Identifier: Apache-2.0
 -->
@@ -7,6 +7,11 @@
         package="org.lineageos.overlay.customization.blacktheme"
         android:versionCode="1"
         android:versionName="1.0">
-    <overlay android:targetPackage="android"
+    <overlay
+        android:targetPackage="android"
+        android:category="android.theme.customization.theme_style"
         android:priority="1"/>
+    <application
+        android:label="@string/android_overlay_black"
+        android:hasCode="false"/>
 </manifest>
