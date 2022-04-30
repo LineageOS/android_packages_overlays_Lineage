@@ -2,8 +2,24 @@ LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := fonts_customization.xml
-LOCAL_SRC_FILES := fonts_customization.xml
-LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_CLASS := ETC
+
+DEFAULT_FONTS_FILE := packages/overlays/Lineage/fonts/etc/fonts_customization.xml
+
+ifdef ADDITIONAL_FONTS_FILE
+ADDITIONAL_FONTS_SCRIPT := vendor/lineage/tools/fonts_combiner.py
+FINAL_FONTS_FILE := $(local-generated-sources-dir)/fonts_customization.xml
+
+$(FINAL_FONTS_FILE): PRIVATE_SCRIPT := $(ADDITIONAL_FONTS_SCRIPT)
+$(FINAL_FONTS_FILE): PRIVATE_ADDITIONAL_FONT_FILE := $(ADDITIONAL_FONTS_FILE)
+$(FINAL_FONTS_FILE): $(ADDITIONAL_FONTS_SCRIPT) $(DEFAULT_FONTS_FILE)
+	rm -f $@
+	python3 $(PRIVATE_SCRIPT) $(DEFAULT_FONTS_FILE) \
+	$(PRIVATE_ADDITIONAL_FONT_FILE) $(FINAL_FONTS_FILE)
+else
+FINAL_FONTS_FILE := $(DEFAULT_FONTS_FILE)
+endif
+
+LOCAL_PREBUILT_MODULE_FILE := $(FINAL_FONTS_FILE)
 LOCAL_PRODUCT_MODULE := true
 include $(BUILD_PREBUILT)
