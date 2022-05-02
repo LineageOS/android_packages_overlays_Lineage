@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "615a48a0_e33f9136",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2022-05-02T11:11:43Z",
+      "side": 1,
+      "message": "another solution https://github.com/althafvly/android_vendor_google_pixel/commit/38f6b30f317e333d87582d6b424ea45a2c4a34d7",
+      "revId": "edce37fa32f7704fc25d3576f40f0bd7d0fcd7de",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
