@@ -49,6 +49,98 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "556bcc5f_91ee4ce9",
+        "filename": "customizations/BlackTheme/res/color/surface_header_dark_sysui.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2022-06-27T17:21:09Z",
+      "side": 1,
+      "message": "ditto",
+      "range": {
+        "startLine": 2,
+        "startChar": 19,
+        "endLine": 2,
+        "endChar": 55
+      },
+      "revId": "7a4ad4be3c24a2407da7b629c8b3e86904b65341",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8bcdbe3a_4d522c5d",
+        "filename": "customizations/BlackTheme/res/color/surface_header_dark_sysui.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2022-06-27T17:21:09Z",
+      "side": 1,
+      "message": "ditto",
+      "range": {
+        "startLine": 4,
+        "startChar": 5,
+        "endLine": 14,
+        "endChar": 35
+      },
+      "revId": "7a4ad4be3c24a2407da7b629c8b3e86904b65341",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "83587f92_f4f7ff21",
+        "filename": "customizations/BlackTheme/res/values/colors.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2022-06-27T17:21:09Z",
+      "side": 1,
+      "message": "From where does 2018 comes from? frameworks/base/core/res/res/values/colors.xml has no copyright header",
+      "range": {
+        "startLine": 3,
+        "startChar": 18,
+        "endLine": 3,
+        "endChar": 54
+      },
+      "revId": "7a4ad4be3c24a2407da7b629c8b3e86904b65341",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f0b02fd1_229fac2f",
+        "filename": "customizations/BlackTheme/res/values/colors.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2022-06-27T17:21:09Z",
+      "side": 1,
+      "message": "Use SPDX-License-Identifier",
+      "range": {
+        "startLine": 5,
+        "startChar": 4,
+        "endLine": 15,
+        "endChar": 33
+      },
+      "revId": "7a4ad4be3c24a2407da7b629c8b3e86904b65341",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "1b8b38b4_63dbe9f1",
         "filename": "customizations/BlackTheme/res/values/strings.xml",
         "patchSetId": 4
