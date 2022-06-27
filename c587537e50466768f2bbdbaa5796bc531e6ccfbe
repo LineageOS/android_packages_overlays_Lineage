@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4ea3ad84_a100c187",
+        "filename": "customizations/BlackTheme/AndroidManifest.xml",
+        "patchSetId": 10
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2022-06-27T18:45:49Z",
+      "side": 1,
+      "message": "This shouldn\u0027t be a range (2020-2022 means 2020, 2021, 2022 and in 2021 it didn\u0027t get touched)\n\"2020, 2022\" means only 2020 and 2022",
+      "range": {
+        "startLine": 2,
+        "startChar": 17,
+        "endLine": 2,
+        "endChar": 26
+      },
+      "revId": "c587537e50466768f2bbdbaa5796bc531e6ccfbe",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
