@@ -45,6 +45,29 @@
       },
       "revId": "7a4ad4be3c24a2407da7b629c8b3e86904b65341",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1b8b38b4_63dbe9f1",
+        "filename": "customizations/BlackTheme/res/values/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2022-06-27T17:17:54Z",
+      "side": 1,
+      "message": "Black theme",
+      "range": {
+        "startLine": 20,
+        "startChar": 41,
+        "endLine": 20,
+        "endChar": 52
+      },
+      "revId": "7a4ad4be3c24a2407da7b629c8b3e86904b65341",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
