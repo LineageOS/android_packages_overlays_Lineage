@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0da6d676_8e801002",
+        "filename": "customizations/BlackTheme/AndroidManifest.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2022-06-27T17:15:23Z",
+      "side": 1,
+      "message": "2020, 2022",
+      "range": {
+        "startLine": 2,
+        "startChar": 17,
+        "endLine": 2,
+        "endChar": 21
+      },
+      "revId": "7a4ad4be3c24a2407da7b629c8b3e86904b65341",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5835b3f3_ccb0f490",
+        "filename": "customizations/BlackTheme/AndroidManifest.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2022-06-27T17:15:23Z",
+      "side": 1,
+      "message": "Format it",
+      "range": {
+        "startLine": 6,
+        "startChar": 0,
+        "endLine": 10,
+        "endChar": 11
+      },
+      "revId": "7a4ad4be3c24a2407da7b629c8b3e86904b65341",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
