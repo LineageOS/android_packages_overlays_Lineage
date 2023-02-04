@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+** Copyright 2023, The LineageOS Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Specifies the path that is used by AdaptiveIconDrawable class to crop launcher icons. -->
+    <string name="config_icon_mask" translatable="false">"M23.3,28.3L23,30.8c0,0,0.2,0.7,0.7,1.6c0.5,0.9,2.7,2.2,2.7,2.2l1,1.6l1,0.7l0.5,0.6l1.2,0.5l0.4,1.8l0.2,2
+	l0.8,1.7l-0.1,1.5l1.9,1.3l1.6,0.3l0.9,1.3l1.1,0.4h1.9l3-1.5l0.3-1.1l1.2-0.4l0.4-0.3c1.6-1,2.7-2.5,3.6-4l-0.5-5.8l-0.1-3.3
+	c-0.4,0-0.3-0.8-0.4-1.3c-0.2-0.4-0.4-0.8-0.7-1.3l-0.2-2.5l0.5-1l1.5,0.1c0.4-0.7,0.7-1.2,1.2-1.4l0.7-0.8c0.6,0.2,1.3,0.2,2-0.2
+	l0.4-0.9l1.1,0.5l0.6-0.6l1.3-0.4l1-1l1.4-0.4l1.1,2l0.6-0.6l-0.4-1.4l0.3-0.3l0.6,0.7c0.3,0.4,0.7,0.5,1.2,0.6l0.5,1l1.5,0.6v0.6
+	l0.5,0.7l1.9-0.2l0.6,1.5c1.4,0.1,3.2-0.1,3.2,0.5c0,0.3-0.2,1.1-0.2,1.1l2,1.4l1.7,3.1l2.2,0.9l1.1,1.2l0.4-0.4l0.6,0.3l0.1-0.6
+	l1.6-1l0.4,0.3l1-0.6l0.2-0.6l0.5-0.5l0.4,0.3l0.9-0.1l1.2,1.5l2.1,0.3l1.6,0.5l0.4-0.3l2.2-0.1l0.2,1.2L89,35.5l1.9,1.1l1,1.3
+	l1.8,0.8l-0.3,3.8l-1.8,1l1,1.1l-0.4,1.5l0.3,0.4l-0.7,2L91.3,49l-0.1,1.3c0,0,1.3-0.9,2.3-0.8c0.5,0.1,0.9,0.4,1.2,0.7
+	c0.3,0.3,0.6,0.5,0.6,0.5l-0.7,1.2l-0.1,1l0.8,0.1l0.9,0.9l0.4,2.4l1.6,0.8L98,58.4l1.1,1.4v2l0.9,2.6c-0.5,0.5-0.6,1-0.4,1.4
+	l-0.5,1.2l-0.6-0.4l-0.8,0.9l-1.9,0.8l-0.3,1.1l-1.4,0.9v0.8l-2,1.8v2.2l-0.5,1.2l-2.9-0.3l-0.6-0.3l-0.8,0.7l-2-1.3l-2.1,0.3
+	l-1.4,1.5l-0.3,1.8c-0.6,0.1-1,0.3-1.6,0.6l-1.5-0.4L78,79.6c-0.7-0.1-1.5-0.2-2.2-0.6l-1.4-0.3L73,77.2l-0.8-2l-1.3-0.7l-0.9-1.4
+	l-2.1-0.9c-0.5-0.7-1.1-1.4-1.8-2.1l-0.9-0.4l-0.3-1.4h-1.1L63,67.7c-0.5,0.4-1,0.4-1.7,0.1c-0.6,0.4-1.7-0.1-2.6-0.4l-1.1,0.2
+	l-1.2-0.8c-0.3-0.8-0.2-1.8-1.1-1.9L54.2,61l-0.6,0.1v0.7h-0.5c-0.3,0.1-0.4,0.3-0.5,0.5h-1c-0.2,0.4-0.6,0.6-1,0.7l-0.1,0.4
+	c-0.1,0.2-0.2,0.3-0.4,0.2L49,65.1l-0.9,0.3l-1.9-1l-2.4,1.1l-1-0.4L42,63.9l-2.6-0.5l-1.2,0.2l-0.1-0.5l-2-0.3l-0.4,0.7l-2-0.4
+	l-1.6-0.8l-1.8,0.3l0.2,0.5l-1,1.1l-0.9-0.7l-0.6-1.8l-0.8-0.4l-1.4,1l-1.2,0.1l-0.8,0.4L22.8,62l-1.5-0.5l-3.4,0.1l-1.2-0.7
+	l-1.6,0.1l-1.5,0.9l-1.7,0.4l-0.4,0.4h-0.4l-0.8,0.7l-1.8-0.3l-0.2,0.5l-2,1.5h-1c-0.6,0.6-1.3,1.3-1.7,1.8l-0.5,1.9l-2.2-0.1
+	c-0.1-2.7-0.6-2.1-0.9-3c-0.1-0.3,0.3-1.7,0.3-2.1c0-0.5-0.2-2.3-0.2-2.3l0.5-1v-1.9L1,58.6L1,60.8l0.5,0.1l0.1-2.4l-1-1.5l1-4
+	l0.1-2.8c0.2-0.1,0.5-0.2,0.7-0.4c0.1-0.1,0-0.2,0.1-0.3c0.2-0.1,0.3-0.1,0.5-0.2c0.6-0.4,1.1-0.8,1.4-1c0.5-0.2,0.4-0.7,0.7-1
+	l0.8-0.5l0.9-1.8l-0.1-2.6l0.3-0.7L7,39.2l0.8-0.7c0.5-0.6,0.3-1.1,0.8-1.8l3-4.6h1l0.5-0.2l2.1-0.1l1.1-0.9h0.5l0.4-0.5l0.6-0.1
+	c0.1,0,0.5-0.4,0.9-0.6c0.6-0.2,1.1-0.3,1.3-0.3c0.6-0.3,1.3-0.8,1.6-1L23.3,28.3z"</string>
+
+    <!-- Flag indicating whether round icons should be parsed from the application manifest. -->
+    <bool name="config_useRoundIcon">false</bool>
+</resources>
