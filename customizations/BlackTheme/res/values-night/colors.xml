@@ -32,4 +32,8 @@
   <color name="system_neutral2_800">#171717</color>
   <color name="system_neutral2_900">#000000</color>
   <color name="system_neutral2_1000">#000000</color>
+
+  <color name="system_surface_container_dark">#000000</color>
+  <color name="system_surface_container_high_dark">#000000</color>
+  <color name="system_surface_dim_dark">#000000</color>
 </resources>
