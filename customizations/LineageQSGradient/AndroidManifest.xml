@@ -1,0 +1,15 @@
+<!--
+ * Copyright (C) 2025 The LineageOS Project
+ *
+ * SPDX-License-Identifier: Apache-2.0
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+        package="org.lineageos.overlay.customization.qs.qsgradient"
+        android:versionCode="1"
+        android:versionName="1.0">
+<overlay android:targetPackage="com.android.systemui"
+	android:category="android.theme.customization.qs_panel_gradient"
+        android:priority="1"/>
+    <application
+        android:hasCode="false"/>
+</manifest>
