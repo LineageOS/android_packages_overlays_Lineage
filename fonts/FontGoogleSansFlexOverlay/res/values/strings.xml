@@ -1,0 +1,10 @@
+<!--
+/**
+ * SPDX-FileCopyrightText: 2025 The LineageOS Project
+ * SPDX-License-Identifier: Apache-2.0
+ */
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Headline / Body font Google Sans Flex overlay -->
+    <string name="font_google_sans_flex_overlay" translatable="false">Google Sans Flex</string>
+</resources>
