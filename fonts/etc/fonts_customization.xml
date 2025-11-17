@@ -21,4 +21,72 @@
     </family>
     <alias name="rubik-medium" to="rubik" weight="500"/>
     <alias name="rubik-bold" to="rubik" weight="700"/>
+
+    <family customizationType="new-named-family" name="google-sans-flex">
+        <font style="normal" weight="100">GoogleSansFlex-Regular.ttf
+            <axis stylevalue="100" tag="wght"/>
+        </font>
+        <font style="normal" weight="200">GoogleSansFlex-Regular.ttf
+            <axis stylevalue="200" tag="wght"/>
+        </font>
+        <font style="normal" weight="300">GoogleSansFlex-Regular.ttf
+            <axis stylevalue="300" tag="wght"/>
+        </font>
+        <font style="normal" weight="400">GoogleSansFlex-Regular.ttf
+            <axis stylevalue="400" tag="wght"/>
+        </font>
+        <font style="normal" weight="500">GoogleSansFlex-Regular.ttf
+            <axis stylevalue="500" tag="wght"/>
+        </font>
+        <font style="normal" weight="600">GoogleSansFlex-Regular.ttf
+            <axis stylevalue="600" tag="wght"/>
+        </font>
+        <font style="normal" weight="700">GoogleSansFlex-Regular.ttf
+            <axis stylevalue="700" tag="wght"/>
+        </font>
+        <font style="normal" weight="800">GoogleSansFlex-Regular.ttf
+            <axis stylevalue="800" tag="wght"/>
+        </font>
+        <font style="normal" weight="900">GoogleSansFlex-Regular.ttf
+            <axis stylevalue="900" tag="wght"/>
+        </font>
+        <font style="italic" weight="100">GoogleSansFlex-Regular.ttf
+            <axis stylevalue="100" tag="wght"/>
+            <axis tag="slnt" stylevalue="-10"/>
+        </font>
+        <font style="italic" weight="200">GoogleSansFlex-Regular.ttf
+            <axis stylevalue="200" tag="wght"/>
+            <axis tag="slnt" stylevalue="-10"/>
+        </font>
+        <font style="italic" weight="300">GoogleSansFlex-Regular.ttf
+            <axis stylevalue="300" tag="wght"/>
+            <axis tag="slnt" stylevalue="-10"/>
+        </font>
+        <font style="italic" weight="400">GoogleSansFlex-Regular.ttf
+            <axis stylevalue="400" tag="wght"/>
+            <axis tag="slnt" stylevalue="-10"/>
+        </font>
+        <font style="italic" weight="500">GoogleSansFlex-Regular.ttf
+            <axis stylevalue="500" tag="wght"/>
+            <axis tag="slnt" stylevalue="-10"/>
+        </font>
+        <font style="italic" weight="600">GoogleSansFlex-Regular.ttf
+            <axis stylevalue="600" tag="wght"/>
+            <axis tag="slnt" stylevalue="-10"/>
+        </font>
+        <font style="italic" weight="700">GoogleSansFlex-Regular.ttf
+            <axis stylevalue="700" tag="wght"/>
+            <axis tag="slnt" stylevalue="-10"/>
+        </font>
+        <font style="italic" weight="800">GoogleSansFlex-Regular.ttf
+            <axis stylevalue="800" tag="wght"/>
+            <axis tag="slnt" stylevalue="-10"/>
+        </font>
+        <font style="italic" weight="900">GoogleSansFlex-Regular.ttf
+            <axis stylevalue="900" tag="wght"/>
+            <axis tag="slnt" stylevalue="-10"/>
+        </font>
+    </family>
+    <alias name="google-sans-flex-medium" to="google-sans-flex" weight="500"/>
+    <alias name="google-sans-flex-bold" to="google-sans-flex" weight="700"/>
 </fonts-modification>
