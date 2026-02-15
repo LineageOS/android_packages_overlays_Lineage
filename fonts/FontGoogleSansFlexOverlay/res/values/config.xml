@@ -14,4 +14,21 @@
     <string name="config_headlineFontFamily" translatable="false">google-sans-flex</string>
     <!-- Name of the font family used for system surfaces where the font should use medium weight -->
     <string name="config_headlineFontFamilyMedium" translatable="false">google-sans-flex-medium</string>
+
+    <!-- Name of the font families used for emphasized styles -->
+    <string name="config_displayLargeEmphasizedFontFamily" translatable="false">google-sans-flex-variable-display-large-emphasized</string>
+    <string name="config_displayMediumEmphasizedFontFamily" translatable="false">google-sans-flex-variable-display-medium-emphasized</string>
+    <string name="config_displaySmallEmphasizedFontFamily" translatable="false">google-sans-flex-variable-display-small-emphasized</string>
+    <string name="config_headlineLargeEmphasizedFontFamily" translatable="false">google-sans-flex-variable-headline-large-emphasized</string>
+    <string name="config_headlineMediumEmphasizedFontFamily" translatable="false">google-sans-flex-variable-headline-medium-emphasized</string>
+    <string name="config_headlineSmallEmphasizedFontFamily" translatable="false">google-sans-flex-variable-headline-small-emphasized</string>
+    <string name="config_titleLargeEmphasizedFontFamily" translatable="false">google-sans-flex-variable-title-large-emphasized</string>
+    <string name="config_titleMediumEmphasizedFontFamily" translatable="false">google-sans-flex-variable-title-medium-emphasized</string>
+    <string name="config_titleSmallEmphasizedFontFamily" translatable="false">google-sans-flex-variable-title-small-emphasized</string>
+    <string name="config_bodyLargeEmphasizedFontFamily" translatable="false">google-sans-flex-variable-body-large-emphasized</string>
+    <string name="config_bodyMediumEmphasizedFontFamily" translatable="false">google-sans-flex-variable-body-medium-emphasized</string>
+    <string name="config_bodySmallEmphasizedFontFamily" translatable="false">google-sans-flex-variable-body-small-emphasized</string>
+    <string name="config_labelLargeEmphasizedFontFamily" translatable="false">google-sans-flex-variable-label-large-emphasized</string>
+    <string name="config_labelMediumEmphasizedFontFamily" translatable="false">google-sans-flex-variable-label-medium-emphasized</string>
+    <string name="config_labelSmallEmphasizedFontFamily" translatable="false">google-sans-flex-variable-label-small-emphasized</string>
 </resources>
