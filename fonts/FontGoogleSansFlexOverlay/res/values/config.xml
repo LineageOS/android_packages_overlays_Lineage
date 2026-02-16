@@ -15,6 +15,23 @@
     <!-- Name of the font family used for system surfaces where the font should use medium weight -->
     <string name="config_headlineFontFamilyMedium" translatable="false">google-sans-flex-medium</string>
 
+    <!-- Name of the font families used for baseline styles -->
+    <string name="config_displayLargeBaselineFontFamily" translatable="false">google-sans-flex-variable-display-large</string>
+    <string name="config_displayMediumBaselineFontFamily" translatable="false">google-sans-flex-variable-display-medium</string>
+    <string name="config_displaySmallBaselineFontFamily" translatable="false">google-sans-flex-variable-display-small</string>
+    <string name="config_headlineLargeBaselineFontFamily" translatable="false">google-sans-flex-variable-headline-large</string>
+    <string name="config_headlineMediumBaselineFontFamily" translatable="false">google-sans-flex-variable-headline-medium</string>
+    <string name="config_headlineSmallBaselineFontFamily" translatable="false">google-sans-flex-variable-headline-small</string>
+    <string name="config_titleLargeBaselineFontFamily" translatable="false">google-sans-flex-variable-title-large</string>
+    <string name="config_titleMediumBaselineFontFamily" translatable="false">google-sans-flex-variable-title-medium</string>
+    <string name="config_titleSmallBaselineFontFamily" translatable="false">google-sans-flex-variable-title-small</string>
+    <string name="config_bodyLargeBaselineFontFamily" translatable="false">google-sans-flex-variable-body-large</string>
+    <string name="config_bodyMediumBaselineFontFamily" translatable="false">google-sans-flex-variable-body-medium</string>
+    <string name="config_bodySmallBaselineFontFamily" translatable="false">google-sans-flex-variable-body-small</string>
+    <string name="config_labelLargeBaselineFontFamily" translatable="false">google-sans-flex-variable-label-large</string>
+    <string name="config_labelMediumBaselineFontFamily" translatable="false">google-sans-flex-variable-label-medium</string>
+    <string name="config_labelSmallBaselineFontFamily" translatable="false">google-sans-flex-variable-label-small</string>
+
     <!-- Name of the font families used for emphasized styles -->
     <string name="config_displayLargeEmphasizedFontFamily" translatable="false">google-sans-flex-variable-display-large-emphasized</string>
     <string name="config_displayMediumEmphasizedFontFamily" translatable="false">google-sans-flex-variable-display-medium-emphasized</string>
