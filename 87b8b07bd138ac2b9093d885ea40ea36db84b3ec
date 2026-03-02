@@ -16,6 +16,24 @@
       "message": "This just makes things work if we also set google-sans-flex as the default. Making font customization work properly with all the new font styles is a whole other process",
       "revId": "87b8b07bd138ac2b9093d885ea40ea36db84b3ec",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1422ec6e_6649d5ae",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2026-03-02T14:16:28Z",
+      "side": 1,
+      "message": "Yeah, ensuring all places have proper font setup is very annoying.\n\nThe framework side patch can do it, but it\u0027ll force font changes even in apps not expecting it.\n\nIf we move to google-sans-flex as default and setup it up properly to expose all the \"required\" font families we can get all the benefits of nicer default font setup...",
+      "parentUuid": "94601da7_2af5f0dd",
+      "revId": "87b8b07bd138ac2b9093d885ea40ea36db84b3ec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
