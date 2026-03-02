@@ -8,15 +8,7 @@
     android:versionName="1.0">
 
     <overlay
+        android:isStatic="true"
         android:targetPackage="android"
-        android:category="android.theme.customization.font"
         android:priority="1" />
-
-    <application
-        android:hasCode="false"
-        android:label="@string/font_google_sans_flex_overlay">
-        <meta-data
-            android:name="android.theme.customization.REQUIRED_SYSTEM_FONTS"
-            android:value="google-sans-flex,google-sans-flex-medium" />
-    </application>
 </manifest>
