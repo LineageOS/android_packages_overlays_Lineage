@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2f98f4ec_a6d699f9",
+        "filename": "fonts/FontRubikOverlay/res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-04-25T22:44:04Z",
+      "side": 1,
+      "message": "Another case of \"how did this get like this\"? weird.",
+      "revId": "71c6cd7dd87f5354ebd71732223cb2edf5ef3b27",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
