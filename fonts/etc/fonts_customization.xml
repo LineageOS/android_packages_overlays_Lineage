@@ -397,6 +397,12 @@
         </font>
     </family>
 
+    <family customizationType="new-named-family" name="google-sans-flex-clock">
+        <font>GoogleSansFlex-Regular.ttf
+            <axis tag="ROND" stylevalue="100"/>
+        </font>
+    </family>
+
     <family customizationType="new-named-family" name="google-sans-bold">
         <font weight="700" style="normal">GoogleSansFlex-Regular.ttf
             <axis tag="GRAD" stylevalue="0"/>
