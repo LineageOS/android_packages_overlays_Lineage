@@ -16,6 +16,23 @@
       "message": "ff to 24.0 when merged",
       "revId": "9e5784b30e406feca0b424ce2adda39adacc1612",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "de317a30_48f29cd4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34519
+      },
+      "writtenOn": "2026-09-12T07:22:32Z",
+      "side": 1,
+      "message": "Been using it on my devices, looks good",
+      "revId": "9e5784b30e406feca0b424ce2adda39adacc1612",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
